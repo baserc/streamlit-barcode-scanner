@@ -1,1 +1,2 @@
 recursive-include package/frontend/build *
+echo "graft streamlit_barcode_scanner/frontend/build" > MANIFEST.in
